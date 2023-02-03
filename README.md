@@ -33,6 +33,8 @@
 
 > This is a simple API that returns a random greeting message.
 
+* Link to the front-end that consume this api [Front-end](https://github.com/barakadanny/hello-react-front-end/pull/2)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
